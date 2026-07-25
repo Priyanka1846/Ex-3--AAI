@@ -123,4 +123,4 @@ print(query_result)
 <img width="435" height="125" alt="image" src="https://github.com/user-attachments/assets/b2dd050e-11b1-4244-8cb5-7a9115d6dce1" />
 
 ## Result:
-Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
+Thus, Approximate Inference using Gibbs Sampling was successfully implemented on the Bayesian Network to estimate the marginal probability distribution for Burglary, yielding P(Burglary = 0) ≈ 0.9991 (99.91%) and P(Burglary = 1) ≈ 0.0009 (0.09%).
